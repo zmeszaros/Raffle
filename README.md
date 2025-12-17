@@ -18,7 +18,7 @@ Ez a program egy automatikus sorsjegy sorsolót valósít meg, amely 120 ember s
 ### Konfigurációs paraméterek
 
 - `hatar = 120`: 120 ember vesz részt a sorsoláson
-- `delta = 10`: Az animáció lassulásának mértéke milliszekundumban
+- `delta = 10`: Az időzítő intervallum növekedése milliszekundumban (minden lépésnél 10 ms-mal nő)
 - `timerTo = 200`: Az animáció maximális intervalluma
 - `eltolas = 6`: A sorsjegyek kezdő számjegye (6-15, 16-25, stb.)
 
@@ -40,7 +40,7 @@ Ez a program egy automatikus sorsjegy sorsolót valósít meg, amely 120 ember s
 ## Használat
 
 1. Indítsd el a `Sorsolas.exe` programot
-2. Kattints a sorsolás gomra
+2. Kattints a sorsolás gombra
 3. Az animáció elindul, és 4 számjegy fog egyesével megállni
 4. A végeredmény egy 4 számjegyű sorsjegyszám lesz (pl. 0736)
 5. Ismételd a folyamatot a következő nyertesek sorsolásához

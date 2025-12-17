@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006.11.20 12:53:48.263.pas,d:\Documents and Settings\zmeszaros\My Documents\Borland Studio Projects\Unit1.pas=d:\Documents and Settings\zmeszaros\My Documents\Borland Studio Projects\Sorsolas\Unit1.pas</Transaction>
+    <Transaction>2006.11.20 12:53:48.263.dfm,d:\Documents and Settings\zmeszaros\My Documents\Borland Studio Projects\Unit1.dfm=d:\Documents and Settings\zmeszaros\My Documents\Borland Studio Projects\Sorsolas\Unit1.dfm</Transaction>
+    <Transaction>2006.11.20 12:53:57.073.bdsproj,d:\Documents and Settings\zmeszaros\My Documents\Borland Studio Projects\Project1.bdsproj=d:\Documents and Settings\zmeszaros\My Documents\Borland Studio Projects\Sorsolas\Sorsolas.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
